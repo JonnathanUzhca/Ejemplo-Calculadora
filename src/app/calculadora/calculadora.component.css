@@ -1,0 +1,11 @@
+.calculadora{
+    margin-left: 5%;
+    margin-right: 10%;
+}
+label, input, button{
+    margin-top: 1%;
+}
+h1{
+    
+    color: black;
+}
