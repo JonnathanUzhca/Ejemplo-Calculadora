@@ -5,6 +5,11 @@
 label, input, button{
     margin-top: 1%;
 }
+.contedor{
+    width:90%;
+    margin-left: 5%;
+    margin-right: 10%;
+}
 h1{
     
     color: black;
